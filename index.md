@@ -2,12 +2,12 @@
 
 ### Postagens recentes
 
-- 2023-01-21 [Pesquisas google para encontrar dados senssíveis em cloud storage](2023-01-21-google-dorks-cloud-storage)
-- 2019-06-06 [Como criar ilimitados endereços de e-mail do GMail a partir de um endereço existente](2019-06-06-emails-ilimitados-gmail)
+- [Pesquisas google para encontrar dados senssíveis em cloud storage](2023-01-21-google-dorks-cloud-storage)
+- [Como criar ilimitados endereços de e-mail do GMail a partir de um endereço existente](2019-06-06-emails-ilimitados-gmail)
 
 ### Listas publicadas
 
-- 2022-10-11 [Lista de sites onde encontrar oportunidades de trabalho remoto para desenvolvedores](2022-10-11-oportunidades-de-trabalho-remoto-para-desenvolvedores)
+- [Lista de sites onde encontrar oportunidades de trabalho remoto para desenvolvedores](2022-10-11-oportunidades-de-trabalho-remoto-para-desenvolvedores)
 
 ### Sobre o autor Renato Monteiro Batista
 
