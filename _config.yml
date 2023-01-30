@@ -1,1 +1,10 @@
+title: O Reino da Computação
+description: >- # this means to ignore newlines until "baseurl:"
+  Blog pessoal do Renato Monteiro Batista, Engenheiro de Computação, um espaço para conversas digitais sobre tecnologia, hacking, segurança da informação, inteligência artificial e outros temas do universo da computação.
+url: "https://renatomb.github.io"
+twitter_username: renatomb
+github_username:  renatomb
+
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
