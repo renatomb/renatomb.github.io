@@ -73,3 +73,7 @@ Lista de sites de *inteligência artificial* que podem ser muito úteis para o s
 - [OpenAI Chat GPT-3](https://chat.openai.com/chat)
 - [GitHub CoPilot](https://github.com/features/copilot)
 - [replit Generate Code](https://docs.replit.com/power-ups/ghostwriter/generate-code)
+
+## Mecanismo de buscas para encontrar serviços de Inteligência Artificial
+
+- [Future Tools](https://www.futuretools.io/)
