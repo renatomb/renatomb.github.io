@@ -7,6 +7,7 @@
 
 ### Listas publicadas
 
+- [Lista de serviços de inteligência artificial](2023-01-30-lista-servicos-inteligencia-artificial)
 - [Lista de sites onde encontrar oportunidades de trabalho remoto para desenvolvedores](2022-10-11-oportunidades-de-trabalho-remoto-para-desenvolvedores)
 
 ### Sobre o autor Renato Monteiro Batista
