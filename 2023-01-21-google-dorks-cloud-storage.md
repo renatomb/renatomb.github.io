@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pesquisas google para encontrar dados senssíveis em cloud storage"
-date:   2022-10-11 14:40:00 -0300
+date:   2023-01-21 14:40:00 -0300
 tags: [google, dorks, segurança da informação, cloud storage]
 author: "Renato Monteiro Battista"
 ---
