@@ -3,6 +3,7 @@ layout: post
 title:  "Lista de sites onde encontrar oportunidades de trabalho remoto para desenvolvedores"
 date:   2022-10-11 01:59:00 -0300
 tags: [listas, links, jobs, trabalho remoto, desenvolvedores]
+permalink: /oportunidades-trabalho-remoto-desenvolvedores/
 author: "Renato Monteiro Battista"
 ---
 Lista de sites onde é possível ecnontrar oportunidades de trabalho remoto para desenvolvedores de software.
