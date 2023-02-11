@@ -1,15 +1,11 @@
 ## Bem vindo / Welcome / Benvenuto / Bienvenu
 
-### Postagens recentes:
+### Postagens recentes
 
-Artigos publicados recentemente neste blog.
+Artigos publicados recentemente neste blog:
 
 {%- if site.posts.size > 0 -%}
-<ul>
-   {%- for post in site.posts -%}
-   <li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
-   {%- endfor -%}
-</ul>
+{%- include listadeposts.html -%}
 {%- endif -%}
 
 
