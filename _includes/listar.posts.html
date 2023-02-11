@@ -3,3 +3,10 @@
 	<li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
 	{%- endfor -%}
 </ul>
+
+
+{%- for post in site.posts -%}
+
+- [{{ post.title | escape }}]({{ post.url | relative_url }})
+
+{%- endfor -%}
