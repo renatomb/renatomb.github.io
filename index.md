@@ -1,16 +1,6 @@
-## Bem vindo / Welcome / Benvenuto / Bienvenu
-
-### Postagens recentes
-
-Artigos publicados recentemente neste blog:
-
-{%- if site.posts.size > 0 -%}
-{%- include listar.posts.html -%}
-{%- endif -%}
-
-### testetete
-- [Pesquisas google para encontrar dados senssíveis em cloud storage](2023-01-21-google-dorks-cloud-storage)
-- [Como criar ilimitados endereços de e-mail do GMail a partir de um endereço existente](2019-06-06-emails-ilimitados-gmail)
+---
+layout: bloghome
+---
 
 ### Listas publicadas
 
