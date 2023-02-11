@@ -5,7 +5,7 @@
 Artigos publicados recentemente neste blog:
 
 {%- if site.posts.size > 0 -%}
-{%- include listadeposts.html -%}
+   {%- include listadeposts.html -%}
 {%- endif -%}
 
 
