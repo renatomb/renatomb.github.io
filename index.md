@@ -1,5 +1,6 @@
 ---
 layout: bloghome
+title: "Home - Blog do Renato Monteiro Batista"
 ---
 
 ### Listas publicadas
