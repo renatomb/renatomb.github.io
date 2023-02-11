@@ -5,11 +5,8 @@
 Artigos publicados recentemente neste blog:
 
 {%- if site.posts.size > 0 -%}
-	{%- for post in site.posts -%}
-   - [{{ post.title | escape }}]({{ post.url | relative_url }})
-	{%- endfor -%}
+{%- include listar.posts.html -%}
 {%- endif -%}
-
 
 ### testetete
 - [Pesquisas google para encontrar dados senssíveis em cloud storage](2023-01-21-google-dorks-cloud-storage)
