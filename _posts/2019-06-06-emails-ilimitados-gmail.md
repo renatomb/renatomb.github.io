@@ -4,7 +4,7 @@ title:  "Como criar ilimitados endereços de e-mail do GMail a partir de um ende
 date:   2019-06-06 21:12:00 -0300
 categories: [tech, dicas]
 tags: [google, gmail]
-author: "Renato Monteiro Battista"
+author: "Renato Monteiro Batista"
 imagem: pawel-czerwinski-710838-unsplash_pawel_czerwinski.jpg
 unsplash:
    a: ["pawel_czerwinski","Pawel Czerwinski"]

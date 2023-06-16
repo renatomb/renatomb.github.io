@@ -4,7 +4,7 @@ title:  "Do container Docker ao Dockerfile fazendo engenharia reversa de um cont
 date:   2023-06-14 13:14:15 -0300
 categories: [tech, docker]
 tags: [engenharia-reversa, docker]
-author: "Renato Monteiro Battista"
+author: "Renato Monteiro Batista"
 ---
 O uso do containers Docker está cada vez mais popular, resolvendo o problema do "*mas roda na minha máquina*" de muitos desenvolvedores. Mas, ao mesmo tempo, coloca algumas *caixas-pretas* no ambiente computacional que **deveria** deixar qualquer pessoa sensata preocupado com segurança da informação preocupado. O que há nesses containers? Estou ingressando numa *botnet*? Ou mesmo com questões mais triviais do tipo *estou rompendo com meu desenvolvedor e preciso ter controle total dessa ferramenta sem brechas para novas modificações".
 

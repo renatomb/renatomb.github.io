@@ -2,7 +2,7 @@
 layout: post
 title:  "Onde baixar a base de dados de CNPJ da Receita Federal"
 date:   2023-02-11 12:19:00 -0300
-author: "Renato Monteiro Battista"
+author: "Renato Monteiro Batista"
 ---
 Mensalmente o [Ministério da Economia divulga no portal dados abertos o conjunto de dados do CNPJ](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-jurdica---cnpj), que contém informações sobre as empresas brasileiras e pode ser baixado em formato CSV ou JSON.
 
