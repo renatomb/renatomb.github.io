@@ -10,6 +10,6 @@ title: "Home - Blog do Renato Monteiro Batista"
 
 ### Sobre o autor Renato Monteiro Batista
 
-Sou engenheiro de computação, apaixonado por computação, redes de computadores, segurança da informação, programação, inteligência artificial. Esse espaço é para compartilhar minhas experiências e conhecimentos, visando colaborar com a humanidade.
+Sou engenheiro de computação com interesse em quase todos os temas de computação, tais como redes de computadores, segurança da informação, programação, inteligência artificial, linux, virtualização, cloud computing, docker e outros tantos assuntos. Além de apaixonado pelo aprendizado de idiomas. Esse espaço é para compartilhar minhas experiências e conhecimentos, visando colaborar com a humanidade.
 
 Visite o meu site pessoal em [renato.ovh](https://renato.ovh)

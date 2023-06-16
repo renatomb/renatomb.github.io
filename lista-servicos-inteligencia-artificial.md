@@ -77,3 +77,8 @@ Lista de sites de *inteligência artificial* que podem ser muito úteis para o s
 ## Mecanismo de buscas para encontrar serviços de Inteligência Artificial
 
 - [Future Tools](https://www.futuretools.io/)
+
+## Outros Links
+
+- [Gerador de foto de perfil baseado em inteligência artificial](https://pfpmaker.com/)
+- [BOT do Twitter para dublar vídeos em seu idioma usando a voz do narrador no idioma original](https://twitter.com/ezdubs_bot)
