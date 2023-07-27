@@ -8,6 +8,12 @@ author: "Renato Monteiro Battista"
 ---
 Lista de sites de *inteligência artificial* que podem ser muito úteis para o seu trabalho.
 
+## Inteligência artificial para pesquisas através de chat
+
+- [ChatGPT-3](https://chat.openai.com/)
+- [Microsoft Bing](https://www.bing.com/)
+- [Google Bard](https://bard.google.com/)
+
 ## Inteligência Artificial para criar imagens a partir de texto
 
 - [Craiyon](https://www.craiyon.com/)
