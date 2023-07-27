@@ -70,9 +70,13 @@ Lista de sites de *inteligência artificial* que podem ser muito úteis para o s
 
 ## Texto para código fonte de software
 
+- [Codeium é como o Github Copilot de graça](https://codeium.com?referral_id=cm1iaW5mb3JtYXRpY2EuYnJAZ21haWwuY29t)
 - [OpenAI Chat GPT-3](https://chat.openai.com/chat)
 - [GitHub CoPilot](https://github.com/features/copilot)
-- [replit Generate Code](https://docs.replit.com/power-ups/ghostwriter/generate-code)
+- [replit Generate Code](https://repl.it/upgrade/renatomb)
+- [TabNine](https://www.tabnine.com/)
+- [DeepCode](https://www.deepcode.ai/)
+- [CodeGuru](https://aws.amazon.com/pt/codeguru/)
 
 ## Mecanismo de buscas para encontrar serviços de Inteligência Artificial
 
