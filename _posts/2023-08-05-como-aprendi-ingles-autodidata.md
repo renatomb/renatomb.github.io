@@ -9,8 +9,7 @@ imagem: pawel-czerwinski-710838-unsplash_pawel_czerwinski.jpg
 unsplash:
    a: ["pawel_czerwinski","Pawel Czerwinski"]
 ---
-
-# Como aprendi inglês de maneira auto-didata
+Como aprendi inglês de maneira auto-didata
 
 ## Minhas experiências com estudo de língua estrangeira
 
