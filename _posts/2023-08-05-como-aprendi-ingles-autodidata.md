@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como aprendi inglês de maneira auto-didata"
-date:   2023-08-05 22:03:80 -0300
+date:   2023-08-05 22:03:08 -0300
 categories: [dicas, idiomas]
 tags: [google, gmail]
 author: "Renato Monteiro Batista"
