@@ -2,8 +2,8 @@
 layout: post
 title:  "Onde obter informações sobre comandos linux"
 date:   2023-10-26 08:46:00 -0300
-categories: [docker]
-tags: [shell, linux]
+categories: [linux]
+tags: [shell, linux, manpages]
 author: "Renato Monteiro Batista"
 ---
 

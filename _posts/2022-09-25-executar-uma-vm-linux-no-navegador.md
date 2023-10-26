@@ -2,7 +2,7 @@
 layout: post
 title:  "Onde obter informações sobre comandos linux"
 date:   2022-09-25 22:31:00 -0300
-categories: [docker]
+categories: [linux]
 tags: [virtual-machine, linux]
 author: "Renato Monteiro Batista"
 ---
