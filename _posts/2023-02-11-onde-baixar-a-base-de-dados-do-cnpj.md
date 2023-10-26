@@ -15,3 +15,10 @@ Também é possível fazer o download acessando diretamente o IP do servidor no 
 ```bash
 wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://200.152.38.155/CNPJ/
 ```
+
+## Repositórios no Github para trabalhar com o banco de dados de empresas da Receita Federal
+
+Publiquei dois repositórios no github para tratamento dos dados dessa base de dados disponibilizada pela Receita Federal, são eles:
+
+* [importar_cnpj](https://github.com/renatomb/importar_cnpj) se propõe a realizar a leitura dos dados e importa-los diretamente em um banco de dados mysql usando o `LOAD DATA LOCAL INFILE` e um [script python para tratar os dados da tabela Estabelecimentos](https://github.com/renatomb/importar_cnpj/blob/main/importar_estabe.py).
+* [cnpj2sql](https://github.com/renatomb/cnpj2sql) é um projeto similar, mas feito em PHP, que se propõe a converter os arquivos `CSV` em arquivos `.sql` para importação direta em qualquer banco de dados MySQL. Além disso nele eu proponho uma estrutura diferente do banco de dados usando inteiros para os campos numéricos, o que reduziu consideravelmente o tamanho ocupado e o tempo de pesquisa no banco de dados.
