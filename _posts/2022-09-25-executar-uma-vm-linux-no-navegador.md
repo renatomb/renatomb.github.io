@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Onde obter informações sobre comandos linux"
+title:  "É possível executar uma VM Linux diretamente do navegador"
 date:   2022-09-25 22:31:00 -0300
 categories: [linux]
 tags: [virtual-machine, linux]
