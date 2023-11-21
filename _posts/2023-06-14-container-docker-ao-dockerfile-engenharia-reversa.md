@@ -31,6 +31,6 @@ Identificado o container em questão, vou utilizar o **IMAGE ID** no comando:
 dedockify <IMAGE ID>
 ```
 
-Será mostrado na tela um arquivo `Dockerfile` equivalente à aquele container. Testei em um container de um repositório privado que eu havia realizado a [transferência de containers de modo offline usando docker save e docker load](https://doc.rmbinformatica.com.br/ajuda/redes-e-infraestrutura/docker/usando-containers-docker-sem-internet-offline) e o resultado foi exatamente o mesmo que eu pude inspecionar no dockerhub como usuário autenticado.
+Será mostrado na tela um arquivo `Dockerfile` equivalente à aquele container. Testei em um container de um repositório privado que eu havia realizado a [transferência de containers de modo offline usando docker save e docker load](https://ajuda.rmbinformatica.com.br/redes-e-infraestrutura/docker/usando-containers-docker-sem-internet-offline) e o resultado foi exatamente o mesmo que eu pude inspecionar no dockerhub como usuário autenticado.
 
 Obviamente que em alguns casos muito específicos podem haver limitações no uso da ferramenta que não consigo identificar nem prever nesse arquivo, mas considero que é uma ferramenta que vale a pena ter sempre à mão e por isso estou documentando o uso nesse artigo.
