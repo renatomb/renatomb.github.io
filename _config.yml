@@ -9,3 +9,4 @@ google_analytics: G-HQ5W1JT80C
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
