@@ -13,6 +13,8 @@ Lista de sites de *inteligência artificial* que podem ser muito úteis para o s
 - [ChatGPT-3](https://chat.openai.com/)
 - [Microsoft Bing](https://www.bing.com/)
 - [Google Bard](https://bard.google.com/)
+- [NVIDIA Chat with RTX permite rodar um Chatbot localmente usando uma placa de vídeo RTX](https://blog.renato.ovh/tech/dicas/ai/inteligencia-artificial/2024/02/14/como-rodar-um-chatbot-localmente-usando-sua-placa-de-video-nvidia.html)
+
 
 ## Inteligência Artificial para criar imagens a partir de texto
 
