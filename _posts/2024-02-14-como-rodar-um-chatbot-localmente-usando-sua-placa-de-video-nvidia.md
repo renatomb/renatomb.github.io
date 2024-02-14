@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "É possível rodar um chatbot localmente usando sua placa de vídeo NVIDIA RTX"
+title:  "É possível rodar um chatbot de inteligëncia artificial localmente usando sua placa de vídeo NVIDIA RTX"
 date: 2024-02-14 06?33 -0300
 categories: [tech, dicas, ai, inteligencia-artificial]
 tags: [nvidia, chatbot, ai, inteligencia-artificial, deep-learning, machine-learning, chat with RTX, RTX, large language model, LLM, retrieval-augmented generation, RAG, TensorRT-LLM, download]
