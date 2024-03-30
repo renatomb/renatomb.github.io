@@ -22,7 +22,7 @@ Independentemente do motivo, há diversos sites de referência que você pode ac
 
 O Kiwix é um software que permite baixar e acessa-los sites de maneira offline, sem a necessidade de conexão com a internet. Ele é uma excelente ferramenta para quem precisa de acesso a informações de qualidade, mas não pode contar com uma conexão estável. Mas será necessário um pouco de espaço em disco para armazenar os arquivos baixados. A wikipedia em português, por exemplo, tem hoje (2024) cerca de 15GB de dados.
 
-A instalação do Kiwix é bem simples, ele disponibiliza versões para Windows, MacOS, Linux, Android e iOS. Para baixar o software e os arquivos de dados dos sites que você deseja acessar offline, acesse o site oficial do [Kiwix](https://www.kiwix.org/).
+A instalação do Kiwix é bem simples, ele disponibiliza versões para Windows, MacOS, Linux, Android e iOS. Para baixar o software e os arquivos de dados dos sites que você deseja acessar offline, acesse o site oficial do [Kiwix](https://kiwix.org/en/applications/).
 
 ## Usando o Kiwix na versão docker em um HD externo
 
