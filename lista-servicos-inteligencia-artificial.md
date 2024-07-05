@@ -92,5 +92,6 @@ Lista de sites de *inteligência artificial* que podem ser muito úteis para o s
 
 ## Outros Links
 
+- [Como converter gratuitamente audio em texto usando inteligência artificial](https://blog.renato.ovh/tech/dicas/2024/06/05/como-converter-gratuitamente-audio-em-texto-usando-inteligencia-artificial.html)
 - [Gerador de foto de perfil baseado em inteligência artificial](https://pfpmaker.com/)
 - [BOT do Twitter para dublar vídeos em seu idioma usando a voz do narrador no idioma original](https://twitter.com/ezdubs_bot)

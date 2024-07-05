@@ -6,9 +6,6 @@ categories: [tech, dicas]
 tags: [google, gmail, inteligencia-artificial]
 author: "Renato Monteiro Batista"
 ---
-
-# Como converter gratuitamente audio em texto usando inteligência artificial
-
 ## Instalando a extensão colaboratory no Google Drive
 
 Esse método utiliza uma extensão que deve ser instalada no seu Google drive, logo será necessário uma conta google.
