@@ -3,7 +3,7 @@ layout: post
 title:  "Como converter gratuitamente audio em texto usando inteligência artificial"
 date:   2024-06-04 21:35:00 -0300
 categories: [tech, dicas]
-tags: [google, gmail, inteligencia-artificial]
+tags: [google, drive, inteligencia-artificial, convertsao, audio, texto]
 author: "Renato Monteiro Batista"
 ---
 ## Instalando a extensão colaboratory no Google Drive
