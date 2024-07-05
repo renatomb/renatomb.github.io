@@ -3,7 +3,7 @@ layout: post
 title:  "Como aprendi inglês de maneira auto-didata"
 date:   2023-08-05 22:03:08 -0300
 categories: [dicas, idiomas]
-tags: [google, gmail]
+tags: [aprendizado, ingles]
 author: "Renato Monteiro Batista"
 imagem: pawel-czerwinski-710838-unsplash_pawel_czerwinski.jpg
 unsplash:
