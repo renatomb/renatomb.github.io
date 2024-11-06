@@ -44,3 +44,8 @@ Em seguida, insira o seguinte trecho de código:
 Lembre-se de substituir o nome do `arquivo.mp3` pelo nome do arquivo de áudio que você fez o upload.
 
 Clique no botão de play para executar e aguarde a conclusão.
+
+## Veja também
+
+- [Converta Áudio em Texto com Whisper da OpenAI, de maneira local usando a sua própria placa de vídeo](2024/11/06/converta-audio-texto-localmente-inteligencia-artificial-whisper-openai)
+- [GitHub do projeto whisper da OpenAI](https://github.com/openai/whisper)
