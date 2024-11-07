@@ -13,9 +13,9 @@ author: "Renato Monteiro Batista"
 
 Para instalar o Whisper, você precisa ter o Python instalado. Recomenda-se uma placa de vídeo Nvidia com suporte a CUDA para acelerar o processo.
 
-1 - **Verifique a versão Python**: Abra o Prompt de Comando e digite `python -V` para verificar se o Python está instalado. A versão recomendada é a 3.9.9.
-2 - **Baixe o Python**: Se necessário, baixe o [instalador do Python 3.9.9 (64-bit) do site oficial](https://www.python.org/downloads/release/python-399/). Certifique-se de marcar a opção “Add to PATH” durante a instalação.
-3 - **Configuração do PATH**: Adicione o caminho do Python e da pasta **Scripts** ao PATH do sistema.
+- **Verifique a versão Python**: Abra o Prompt de Comando e digite `python -V` para verificar se o Python está instalado. A versão recomendada é a 3.9.9.
+- **Baixe o Python**: Se necessário, baixe o [instalador do Python 3.9.9 (64-bit) do site oficial](https://www.python.org/downloads/release/python-399/). Certifique-se de marcar a opção “Add to PATH” durante a instalação.
+- **Configuração do PATH**: Adicione o caminho do Python e da pasta **Scripts** ao PATH do sistema.
 
 ### Múltiplas versões do Python
 
