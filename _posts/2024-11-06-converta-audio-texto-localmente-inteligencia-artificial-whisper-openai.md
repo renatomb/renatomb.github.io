@@ -21,16 +21,25 @@ Para instalar o Whisper, você precisa ter o Python instalado. Recomenda-se uma 
 
 Você pode executar múltiplas versões do python na mesma máquina, desde que instalados em diretórios diferentes e configurados no path. Caso use múltiplas versões recomendo criar uma cópia do executavel `python.exe` para `python39.exe` para evitar conflitos.
 
-### Instalação do CUDA 11.6
+### Instalação do CUDA
 
-Se você já usou ferramentas como o Stable Diffusion, provavelmente já tem o CUDA instalado. Caso contrário, [baixe e instale o CUDA 11.6 do site da Nvidia](https://developer.nvidia.com/cuda-11-6-0-download-archive).
+Verifique no site do [PyTorch](https://pytorch.org/get-started/locally/) qual a versão do CUDA necessária. No momento que estou escrevendo esse artigo a versão mínima necessária é a 11.8 e a máxima suportada é a 12.4, optei por [baixar e instalar o CUDA 11.8 do site da Nvidia](https://developer.nvidia.com/cuda-11-8-0-download-archive).
+
+Este passo é muito importante pois caso você não tenha o CUDA instalado ou com uma versão incompatível, o PyTorch irá instalar a versão CPU do PyTorch, que é muito mais lenta.
 
 ### Instalação do PyTorch
 
-Acesse o site do PyTorch e escolha as opções: Stable, Windows, Pip, Python, CUDA 11.63. Copie o comando fornecido e cole no terminal:
+No próprio site do PyTorch vai ter a linha de comando necessária para instalar:
 
 ```
-pip3.9 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu116
+python39 -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+
+### Verificando se o PyTorch foi instalado corretamente com o cuda
+
+```python
+import torch
+print(torch.cuda.is_available())  # Deve retornar True
 ```
 
 ### Instale o ffmpeg
